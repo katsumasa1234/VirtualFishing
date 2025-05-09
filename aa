@@ -1,0 +1,50 @@
+[1mdiff --cc Assets/Fish.meta[m
+[1mindex bdb6722,c5d4074..0000000[m
+[1m--- a/Assets/Fish.meta[m
+[1m+++ b/Assets/Fish.meta[m
+[36m@@@ -1,5 -1,5 +1,9 @@@[m
+  fileFormatVersion: 2[m
+[32m++<<<<<<< HEAD[m
+[32m +guid: ba32f71d78917a642afaec13067d39ab[m
+[32m++=======[m
+[32m+ guid: 80eab2a13b1562b41a5d8b9a3cf93a59[m
+[32m++>>>>>>> 066c0cc5040d9e6d8b6310cd525c26a706341dc0[m
+  folderAsset: yes[m
+  DefaultImporter:[m
+    externalObjects: {}[m
+[1mdiff --cc Assets/Settings/UniversalRenderPipelineGlobalSettings.asset[m
+[1mindex d0d637c,389ae7f..0000000[m
+[1m--- a/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset[m
+[1m+++ b/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset[m
+[36m@@@ -55,12 -55,10 +55,19 @@@[m [mMonoBehaviour[m
+        - rid: 8712630790384254976[m
+        - rid: 4509858236879077376[m
+        - rid: 4509858236879077377[m
+[32m++<<<<<<< HEAD[m
+[32m +      - rid: 8786492295234977792[m
+[32m +      - rid: 8786492295234977793[m
+[32m +      - rid: 8786492295234977794[m
+[32m +      - rid: 8786492295234977795[m
+[32m +      - rid: 8786492295234977796[m
+[32m +      - rid: 8786492295234977797[m
+[32m++=======[m
+[32m+       - rid: 6242352131430678528[m
+[32m+       - rid: 6242352131430678529[m
+[32m+       - rid: 6242352131430678530[m
+[32m+       - rid: 6242352131430678531[m
+[32m++>>>>>>> 066c0cc5040d9e6d8b6310cd525c26a706341dc0[m
+      m_RuntimeSettings:[m
+        m_List: [][m
+    m_AssetVersion: 8[m
+[1mdiff --cc ProjectSettings/ProjectVersion.txt[m
+[1mindex b4a5ff6,593b461..0000000[m
+[1m--- a/ProjectSettings/ProjectVersion.txt[m
+[1m+++ b/ProjectSettings/ProjectVersion.txt[m
+[36m@@@ -1,2 -1,2 +1,7 @@@[m
+[32m++<<<<<<< HEAD[m
+[32m +m_EditorVersion: 6000.1.0f1[m
+[32m +m_EditorVersionWithRevision: 6000.1.0f1 (9ea152932a88)[m
+[32m++=======[m
+[32m+ m_EditorVersion: 6000.0.48f1[m
+[32m+ m_EditorVersionWithRevision: 6000.0.48f1 (170d2541580d)[m
+[32m++>>>>>>> 066c0cc5040d9e6d8b6310cd525c26a706341dc0[m
